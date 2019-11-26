@@ -33,6 +33,8 @@ PRs should address:
 
 ## Contacts
 
+Please reach out to <opensource@cargill.com> with questions related to any of our contributions or projects.
+
 [WIP]
 
 - Maintainer's Github names
